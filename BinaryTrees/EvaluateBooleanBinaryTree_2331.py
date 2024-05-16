@@ -4,6 +4,7 @@ class TreeNode:
         self.left = left
         self.right = right
 
+# https://leetcode.com/problems/evaluate-boolean-binary-tree/description/?envType=daily-question&envId=2024-05-16
 
 def evaluateBoolTree(root):
     if root is None:
