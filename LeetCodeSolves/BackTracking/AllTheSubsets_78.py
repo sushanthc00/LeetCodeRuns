@@ -1,4 +1,5 @@
 # https://leetcode.com/problems/subsets/description/
+# Classic backtracking solution
 
 def subsets(nums):
     def helper(start, path):
