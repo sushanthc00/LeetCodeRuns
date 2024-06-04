@@ -13,5 +13,5 @@ def countTriplets(arr):
 
 
 if __name__ == '__main__':
-    arr = [1,1,1,1,1]
+    arr = [1, 1, 1, 1, 1]
     print(countTriplets(arr))
